@@ -186,10 +186,12 @@ body {
   width: 90%;
   margin: auto;
 }
-.Our-Baking .info {
-  width: 30%;
+.Our-Baking .main {
+  width: 33%;
   float: left;
-  margin-left: 40px;
+}
+.Our-Baking .info {
+  padding: 0px 10px;
 }
 .Our-Baking .info img {
   width: 100%;
